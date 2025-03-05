@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel",
     "ipython",
     "matplotlib",
+    "scikit-learn",
     "transformers",
 ]
 requires-python = "~=3.10"
